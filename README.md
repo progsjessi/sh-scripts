@@ -1,2 +1,1 @@
-# sh-scripts
-.🇸🇭 | scripts useful for everything 
+## .bat/.sh Scripts
